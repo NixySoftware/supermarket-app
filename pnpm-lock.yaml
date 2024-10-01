@@ -9,8 +9,8 @@ devDependencies:
     specifier: ^20.11.28
     version: 20.11.28
   lucide-static:
-    specifier: ^0.399.0
-    version: 0.399.0
+    specifier: ^0.447.0
+    version: 0.447.0
   next-auth:
     specifier: github:nextauthjs/next-auth
     version: github.com/nextauthjs/next-auth/e9a3e8ea527eb93621f75edbc650e1e31411346d
@@ -390,8 +390,8 @@ packages:
     engines: {node: 14 || >=16.14}
     dev: true
 
-  /lucide-static@0.399.0:
-    resolution: {integrity: sha512-RkR/IvJ9PUtRL+3jXmTesvqtQ91imaM2jFv33R7cfr+3dZdOAERQ4tI4QlAAinEglckKfo7wSMR++RTmDveW9g==}
+  /lucide-static@0.447.0:
+    resolution: {integrity: sha512-6QcrGIs8sgQn5DzQzLjBtV8mLh0WeYZo31SK2xt58vygpUtYRUmtZ+e+/Lan3K49ZNE40VFV+oqYNhpTULrqJA==}
     dev: true
 
   /merge2@1.4.1:
