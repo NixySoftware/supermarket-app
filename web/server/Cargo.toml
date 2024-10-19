@@ -22,5 +22,5 @@ supermarket-web-app = { path = "../app", default-features = false, features = [
 supermarket-web-database = { path = "../database", features = ["server"] }
 thiserror.workspace = true
 tokio.workspace = true
-tower = "0.4.13"
+tower = "0.5.0"
 tower-http = { version = "0.5.2", features = ["fs"] }
