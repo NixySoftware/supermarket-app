@@ -1872,7 +1872,7 @@ dependencies = [
  "httpdate",
  "itoa",
  "pin-project-lite",
- "socket2 0.4.10",
+ "socket2 0.5.5",
  "tokio",
  "tower-service",
  "tracing",
@@ -4412,9 +4412,9 @@ dependencies = [
 
 [[package]]
 name = "tailwind_fuse"
-version = "0.1.0"
+version = "0.3.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d483287aab245271f20697b9b93a35cee00abb815d0bea75e04ad3508b203770"
+checksum = "fc6ff93981e812585b0cb150d413fcf744a528548cb185666629520b61b7d5bb"
 dependencies = [
  "nom",
  "tailwind_fuse_macro",
@@ -4422,9 +4422,9 @@ dependencies = [
 
 [[package]]
 name = "tailwind_fuse_macro"
-version = "0.1.0"
+version = "0.2.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "131f0e65e3aa2985cbd3358d5a9bf23d6afe5ae15fdb105e97ad086016bc6f79"
+checksum = "473b0a76a09cf00567794d9aa58fafa568ddb66053cf75ae776f7034584c2e46"
 dependencies = [
  "darling 0.20.8",
  "proc-macro2",
