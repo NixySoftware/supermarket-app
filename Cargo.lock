@@ -4301,9 +4301,9 @@ dependencies = [
 
 [[package]]
 name = "tailwind_fuse"
-version = "0.1.0"
+version = "0.3.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "d483287aab245271f20697b9b93a35cee00abb815d0bea75e04ad3508b203770"
+checksum = "2e9d32d52c3191836fe1858b6b38442d1e536eeb11883b2041e6db080a208c2d"
 dependencies = [
  "nom",
  "tailwind_fuse_macro",
@@ -4311,9 +4311,9 @@ dependencies = [
 
 [[package]]
 name = "tailwind_fuse_macro"
-version = "0.1.0"
+version = "0.3.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "131f0e65e3aa2985cbd3358d5a9bf23d6afe5ae15fdb105e97ad086016bc6f79"
+checksum = "89fd8a13e8e105a886fe9d15aa60580602be9ee9a17235e552f19faa3d7834f4"
 dependencies = [
  "darling 0.20.8",
  "proc-macro2",
