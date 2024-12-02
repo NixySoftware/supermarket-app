@@ -22,7 +22,7 @@ http = "1.1.0"
 leptos = { version = "0.6.9", features = ["nightly"] }
 leptos_axum = "0.6.9"
 leptos_meta = { version = "0.6.9", features = ["nightly"] }
-leptos_router = { version = "0.6.9", features = ["nightly"] }
+leptos_router = { version = "0.7.0", features = ["nightly"] }
 log = "0.4.21"
 serde = "1.0.197"
 thiserror = "1.0.57"
