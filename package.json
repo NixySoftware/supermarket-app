@@ -8,7 +8,7 @@
     "scripts": {},
     "devDependencies": {
         "@types/node": "^22.0.0",
-        "lucide-static": "^0.462.0",
+        "lucide-static": "^0.468.0",
         "next-auth": "github:nextauthjs/next-auth",
         "prettier": "^3.2.5",
         "prettier-plugin-tailwindcss": "^0.6.0",
